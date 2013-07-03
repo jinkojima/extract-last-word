@@ -1,0 +1,1 @@
+usage: groovy extractLastWord.groovy TARGETFILE OUTPUTFILE
